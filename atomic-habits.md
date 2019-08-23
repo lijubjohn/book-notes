@@ -18,8 +18,8 @@
 ##### Three Layers of Behavior Change
 
   1. The first layer is changing your outcomes. This level is concerned with changing your results: losing weight, publishing a book, winning a championship. Most of the goals you set are associated with this level of change.
-  - The second layer is changing your process. This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level.
-  - The third and deepest layer is changing your identity. This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level.
+  2. The second layer is changing your process. This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level.
+  3. The third and deepest layer is changing your identity. This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level.
 
 The alternative is to build identity-based habits. With this approach, we start by focusing on who we wish to become.
 
@@ -37,13 +37,16 @@ The formation of all habits is a feedback loop (a concept we will explore in dep
 
 1. Cue
   - anything related to the habit that signals to start a particular habit
-- Craving
+
+2. Craving
   - You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained.
   - Every craving is linked to a desire to change your internal state.
   - The thoughts, feelings, and emotions of the observer are what transform a cue into a craving.
-- Response
+
+3. Response
   - The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior.
-- Reward
+  
+4. Reward
   - Rewards are the end goal of every habit.
   - The first purpose of rewards is to satisfy your craving.
   - Second, rewards teach us which actions are worth remembering in the future.
@@ -61,13 +64,13 @@ The problem phase includes the cue and the craving, and it is when you realize t
 you don’t need to be aware of the cue for a habit to begin. You can notice an opportunity and take action without dedicating conscious attention to it.
 
 ### HABIT SCORECARD
-1. Make a list of your daily habits.
-- Ask yourself, “Is this a good habit, a bad habit, or a neutral habit?”
-- If it is a good habit, write “+” next to it. If it is a bad habit, write “–”. If it is a neutral habit, write “=”.
+- Make a list of your daily habits.
+  - Ask yourself, “Is this a good habit, a bad habit, or a neutral habit?”
+  - If it is a good habit, write “+” next to it. If it is a bad habit, write “–”. If it is a neutral habit, write “=”.
 
-If you’re having trouble determining how to rate a particular habit, here is a question I like to use: “Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?”
+- If you’re having trouble determining how to rate a particular habit, here is a question I like to use: “Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?”
 
-Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action. Some people spend their entire lives waiting for the time to be right to make an improvement.
+- Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action. Some people spend their entire lives waiting for the time to be right to make an improvement.
 
 **The simple way to apply this strategy to your habits is to fill out this sentence:
 I will [BEHAVIOR] at [TIME] in [LOCATION].**
