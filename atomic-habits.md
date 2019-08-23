@@ -35,18 +35,18 @@ The formation of all habits is a feedback loop (a concept we will explore in dep
 
 ### PROCESS OF BUILDING HABITS (4 laws)
 
-1. Cue
+- 1. Cue
   - anything related to the habit that signals to start a particular habit
 
-2. Craving
+- 2. Craving
   - You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained.
   - Every craving is linked to a desire to change your internal state.
   - The thoughts, feelings, and emotions of the observer are what transform a cue into a craving.
 
-3. Response
+- 3. Response
   - The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior.
-  
-4. Reward
+
+- 4. Reward
   - Rewards are the end goal of every habit.
   - The first purpose of rewards is to satisfy your craving.
   - Second, rewards teach us which actions are worth remembering in the future.
@@ -80,22 +80,22 @@ eg. I will [exercise] at [5:30 AM] at local [gym]
 
 ### HOW TO CREATE A GOOD HABIT (4 rules)
 
-1. Make It Obvious
+- 1. Make It Obvious
   - Fill out the Habits Scorecard. Write down your current habits to become aware of them.
   - Use implementation intentions: “I will [BEHAVIOR] at [TIME] in [LOCATION].”
   - Use habit stacking: “After [CURRENT HABIT], I will [NEW HABIT].”
   - Design your environment. Make the cues of good habits obvious and visible.
-2. Make It Attractive
+- 2. Make It Attractive
   - Use temptation bundling. Pair an action you want to do with an action you need to do.
   - Join a culture where your desired behavior is the normal behavior.
   - Create a motivation ritual. Do something you enjoy immediately before a difficult habit.
-3. Make It Easy
+- 3. Make It Easy
   - Reduce friction. Decrease the number of steps between you and your good habits.
   - Prime the environment. Prepare your environment to make future actions easier.
   - Master the decisive moment. Optimize the small choices that deliver outsized impact.
   - Use the Two-Minute Rule. Downscale your habits until they can be done in two minutes or less.
   - Automate your habits. Invest in technology and onetime purchases that lock in future behavior.
-4. Make It Satisfying
+- 4. Make It Satisfying
   - Use reinforcement. Give yourself an immediate reward when you complete your habit.
   - Make “doing nothing” enjoyable. When avoiding a bad habit, design a way to see the benefits.
   - Use a habit tracker. Keep track of your habit streak and “don’t break the chain.”
@@ -104,14 +104,14 @@ eg. I will [exercise] at [5:30 AM] at local [gym]
 
 ### HOW TO BREAK A BAD HABIT
 
-1. Make It Invisible
+- 1. Make It Invisible
   - Reduce exposure. Remove the cues of your bad habits from your environment.
-2. Make It Unattractive
+- 2. Make It Unattractive
   - Reframe your mind-set. Highlight the benefits of avoiding your bad habits.
-3. Make It Difficult
+- 3. Make It Difficult
   - Increase friction. Increase the number of steps between you and your bad habits.
   - Use a commitment device. Restrict your future choices to the ones that benefit you.
-4. Make It Unsatisfying
+- 4. Make It Unsatisfying
   - Get an accountability partner. Ask someone to watch your behavior.
   - Create a habit contract. Make the costs of your bad habits public and painful.
 
