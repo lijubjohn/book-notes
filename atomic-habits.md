@@ -35,21 +35,21 @@ The formation of all habits is a feedback loop (a concept we will explore in dep
 
 ### PROCESS OF BUILDING HABITS (4 laws)
 
-- 1. Cue
-  - anything related to the habit that signals to start a particular habit
+1. Cue
+    - anything related to the habit that signals to start a particular habit
 
-- 2. Craving
-  - You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained.
-  - Every craving is linked to a desire to change your internal state.
-  - The thoughts, feelings, and emotions of the observer are what transform a cue into a craving.
+2. Craving
+    - You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained.
+    - Every craving is linked to a desire to change your internal state.
+    - The thoughts, feelings, and emotions of the observer are what transform a cue into a craving.
 
-- 3. Response
-  - The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior.
+3. Response
+    - The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior.
 
-- 4. Reward
-  - Rewards are the end goal of every habit.
-  - The first purpose of rewards is to satisfy your craving.
-  - Second, rewards teach us which actions are worth remembering in the future.
+4. Reward
+    - Rewards are the end goal of every habit.
+    - The first purpose of rewards is to satisfy your craving.
+    - Second, rewards teach us which actions are worth remembering in the future.
 
 If a behavior is insufficient in any of the four stages, it will not become a habit.
   - Eliminate the cue and your habit will never start.
