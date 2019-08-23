@@ -1,7 +1,6 @@
-#### ATOMIC HABITS  - by James Clear
-
-### NOTES
-##### GOALS vs. SYSTEMS
+> ## ATOMIC HABITS  - by James Clear
+> ### NOTES
+### GOALS vs. SYSTEMS
 
   Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
   - Goals are good for setting a direction, but systems are best for making progress.
@@ -34,7 +33,7 @@ I have a friend who lost over 100 pounds by asking herself, “What would a heal
 The formation of all habits is a feedback loop (a concept we will explore in depth in the next chapter), but **it’s important to let your values, principles, and identity drive the loop rather than your results.** The focus should always be on becoming that type of person, not getting a particular outcome.
 
 
-##### PROCESS OF BUILDING HABITS (4 laws)
+### PROCESS OF BUILDING HABITS (4 laws)
 
 1. Cue
   - anything related to the habit that signals to start a particular habit
@@ -61,7 +60,7 @@ The problem phase includes the cue and the craving, and it is when you realize t
 
 you don’t need to be aware of the cue for a habit to begin. You can notice an opportunity and take action without dedicating conscious attention to it.
 
-##### HABIT SCORECARD
+### HABIT SCORECARD
 1. Make a list of your daily habits.
 - Ask yourself, “Is this a good habit, a bad habit, or a neutral habit?”
 - If it is a good habit, write “+” next to it. If it is a bad habit, write “–”. If it is a neutral habit, write “=”.
@@ -76,7 +75,7 @@ eg. I will [exercise] at [5:30 AM] at local [gym]
 
 
 
-##### HOW TO CREATE A GOOD HABIT (4 rules)
+### HOW TO CREATE A GOOD HABIT (4 rules)
 
 1. Make It Obvious
   - Fill out the Habits Scorecard. Write down your current habits to become aware of them.
@@ -100,7 +99,7 @@ eg. I will [exercise] at [5:30 AM] at local [gym]
   - Never miss twice. When you forget to do a habit, make sure you get back on track immediately.
 
 
-##### HOW TO BREAK A BAD HABIT
+### HOW TO BREAK A BAD HABIT
 
 1. Make It Invisible
   - Reduce exposure. Remove the cues of your bad habits from your environment.
@@ -114,7 +113,7 @@ eg. I will [exercise] at [5:30 AM] at local [gym]
   - Create a habit contract. Make the costs of your bad habits public and painful.
 
 
-##### HABIT FOMULAS
+### HABIT FOMULAS
 
 - Implementation Intention: I will (BEHAVIOR) at (TIME) in (LOCATION)
 - Habit Stacking: After (CURRENT HABIT), I will (NEW HABIT)
@@ -124,14 +123,14 @@ eg. I will [exercise] at [5:30 AM] at local [gym]
 - Habit Stacking + Habit Tracking: After (CURRENT HABIT), I will (TRACK MY HABIT)
 - Mastery = Habits + Deliberate Practice
 
-##### MOTIVATION is overrated ,ENVIRONMENT underrated
+### MOTIVATION is overrated ,ENVIRONMENT underrated
 
 - Environment design allows you to take back control and become the architect of your life. Be the designer of your world and not merely the consumer of it
 - Environment is the invisible hand that shapes human behavior. Despite our unique personalities, certain behaviors tend to arise again and again under certain environmental conditions.
 - A stable environment where everything has a place and a purpose is an environment where habits can easily form
 - Optimize your environment…This is the secret to self-control.The central idea is to create an environment where doing the right thing is as easy as possible
 
-##### MEASURING PROGRESS
+### MEASURING PROGRESS
 - Simple Rule: “Never miss twice…Missing once is an accident. Missing twice is the start of a new habit.”
 - Habit Tracking
   - “Perhaps the best way to measure your progress is with a habit tracker…Habit tracking (1) creates a visual cue that can remind you to act, (2) is inherently motivating because you see the progress you are making and don’t want to lose it, and (3) feels satisfying whenever you record another successful instance of your habit. Furthermore, habit tracking provides visual proof that you are casting votes for the type of person you wish to become, which is a delightful form of immediate and intrinsic gratification.”
